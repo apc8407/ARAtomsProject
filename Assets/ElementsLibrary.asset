@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ElementsLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4977547449354496019
+  m_GuidHigh: 9116146515251549350
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5738704998581502920
+      m_GuidHigh: 664891897920221360
+    m_SerializedTextureGuid:
+      m_GuidLow: 13219198579322698595
+      m_GuidHigh: 13930835408145282377
+    m_Size: {x: 0.1, y: 0.12723334}
+    m_SpecifySize: 1
+    m_Name: Hydrogen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5647093949122413761
+      m_GuidHigh: 13093508254793940125
+    m_SerializedTextureGuid:
+      m_GuidLow: 17015750488331096858
+      m_GuidHigh: 3663359195265588779
+    m_Size: {x: 0.1, y: 0.12723334}
+    m_SpecifySize: 1
+    m_Name: Helium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5413110674336767791
+      m_GuidHigh: 15487706648903085244
+    m_SerializedTextureGuid:
+      m_GuidLow: 17659762315620579826
+      m_GuidHigh: 7238764354609875176
+    m_Size: {x: 0.1, y: 0.10286929}
+    m_SpecifySize: 1
+    m_Name: Lithium
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5204439923153100553
+      m_GuidHigh: 7723717166690415802
+    m_SerializedTextureGuid:
+      m_GuidLow: 2622404123509124569
+      m_GuidHigh: 3074112009233785946
+    m_Size: {x: 0.1, y: 0.11085366}
+    m_SpecifySize: 1
+    m_Name: Carbon
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5704270454120366600
+      m_GuidHigh: 1095353298206758578
+    m_SerializedTextureGuid:
+      m_GuidLow: 11800742385155845988
+      m_GuidHigh: 9413331756925941592
+    m_Size: {x: 0.1, y: 0.10658617}
+    m_SpecifySize: 1
+    m_Name: Oxygen
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5393936173007178162
+      m_GuidHigh: 38969691180961721
+    m_SerializedTextureGuid:
+      m_GuidLow: 4707410630261563198
+      m_GuidHigh: 992302331858298520
+    m_Size: {x: 0.1, y: 0.10866753}
+    m_SpecifySize: 1
+    m_Name: Oxygen1
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5700071416582537508
+      m_GuidHigh: 15475095132600767643
+    m_SerializedTextureGuid:
+      m_GuidLow: 12944544326996502290
+      m_GuidHigh: 569776400783733593
+    m_Size: {x: 0.1, y: 0.108176105}
+    m_SpecifySize: 1
+    m_Name: Oxygen2
+    m_Texture: {fileID: 0}

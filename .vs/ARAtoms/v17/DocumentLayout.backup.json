@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Aditya\\ARAtoms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9482F3-461C-2B49-9AA4-2571AA57783E}|Assembly-CSharp.csproj|d:\\aditya\\aratoms\\assets\\scripts\\imagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9482F3-461C-2B49-9AA4-2571AA57783E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imagetracker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F9482F3-461C-2B49-9AA4-2571AA57783E}|Assembly-CSharp.csproj|D:\\Aditya\\ARAtoms\\assets\\scripts\\orbitelectron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F9482F3-461C-2B49-9AA4-2571AA57783E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\orbitelectron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Aditya\\ARAtoms\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageTracker.cs",
+              "DocumentMoniker": "D:\\Aditya\\ARAtoms\\Assets\\Scripts\\ImageTracker.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageTracker.cs",
+              "ToolTip": "D:\\Aditya\\ARAtoms\\Assets\\Scripts\\ImageTracker.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImageTracker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:23:22.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrbitElectron.cs",
+              "DocumentMoniker": "D:\\Aditya\\ARAtoms\\Assets\\Scripts\\OrbitElectron.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OrbitElectron.cs",
+              "ToolTip": "D:\\Aditya\\ARAtoms\\Assets\\Scripts\\OrbitElectron.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OrbitElectron.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T22:55:13.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ARCoreBuildProcessor.cs",
+              "DocumentMoniker": "D:\\Aditya\\ARAtoms\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "ToolTip": "D:\\Aditya\\ARAtoms\\Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.xr.arcore@5.1.5\\Editor\\ARCoreBuildProcessor.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAYwIEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T21:52:32.848Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
